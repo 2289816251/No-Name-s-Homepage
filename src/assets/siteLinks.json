@@ -1,28 +1,18 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
+    "icon": "Radiation",
+    "name": "辅助购买",
     "link": "https://blog.imsyy.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "Tools",
+    "name": "工具下载",
+    "link": "https://www.123865.com/s/O5Eyjv-NMvRh"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
+    "icon": "QuestionCircle",
+    "name": "疑难杂症",
     "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
   },
   {
     "icon": "Fire",

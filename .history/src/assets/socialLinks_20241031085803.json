@@ -1,0 +1,26 @@
+[
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "#"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "客服 2532185538",
+    "url": "https://res.abeim.cn/api/qq/?qq=2532185538"
+  },
+  {
+    "name": "微信",
+    "icon": "/images/icon/vx.png",
+    "tip": "客服 Choice_1223",
+    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+  },
+  {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "你懂的 ~",
+    "url": "https://t.me/staryuniverse1"
+  }
+]
