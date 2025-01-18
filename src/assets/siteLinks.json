@@ -5,6 +5,11 @@
     "link": "https://www.lcfaka.com.cn/shop/T16N9WM4"
   },
   {
+    "icon": "Radiation",
+    "name": "备用卡网",
+    "link": "https://shop.9fak.com//links/0D22933E"
+  },
+  {
     "icon": "Tools",
     "name": "工具下载",
     "link": "https://www.123865.com/s/O5Eyjv-NMvRh"
@@ -13,6 +18,11 @@
     "icon": "QuestionCircle",
     "name": "疑难杂症",
     "link": "https://flowus.cn/share/49ef4bce-a6f2-4756-a0e0-3803eda01d5b?code=87B9FB【FlowUs 息流】疑难杂症"
+  },
+  {
+    "icon": "Gift",
+    "name": "欧气满满",
+    "link": false
   },
   {
     "icon": "Fire",
